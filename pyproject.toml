@@ -1,0 +1,15 @@
+...
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "^0.0.1"
+chardet
+fire
+html2text
+html5lib
+google
+html5lib
+parlai = "^1.5.1"
+requests
+rich
+lxml
+...
